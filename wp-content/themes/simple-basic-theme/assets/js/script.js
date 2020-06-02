@@ -1,0 +1,3 @@
+/*
+This is JS code of our custom theme
+*/
