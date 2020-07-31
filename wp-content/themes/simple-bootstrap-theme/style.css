@@ -1,9 +1,55 @@
 /*
 Theme Name: Simple Bootstrap Theme
-Theme URI: https://www.google.com
+Theme URI: http://onlinewebtutorhub.blogspot.com
 Author: Online Web Tutor
 Description: This is a very basic theme introduction. We are learning wordpress
 theme development at first phase
 Author URI: https://youtube.com/onlinewebtutor
 Version: 1.0
 */
+
+/* single product page */
+button.single_add_to_cart_button.button.alt {
+    background: #23282d;
+    font-size: 14px;
+}
+
+/* products page */
+a.button.product_type_simple.add_to_cart_button.ajax_add_to_cart {
+    background: #23282d;
+    color: #fff;
+    font-size: 15px;
+}
+
+li.product.product-type-simple {
+    text-align: center;
+}
+
+/* cart page */
+input#coupon_code {
+    width: 122px;
+}
+
+.woocommerce #respond input#submit, .woocommerce a.button, .woocommerce button.button, .woocommerce input.button {
+    background-color: yellow;
+}
+
+/* checkout page */
+.woocommerce .col2-set .col-1, .woocommerce-page .col2-set .col-1 {
+    flex: 0 0 50%;
+    max-width: 50%;
+}
+
+.woocommerce .form-row{
+    display: block;
+}
+
+.woocommerce .col2-set .col-2, .woocommerce-page .col2-set .col-2 {
+    flex: 0 0 50%;
+    max-width: 50%;
+}
+
+/*new arrival changes*/
+div.new-arrival-custom-class a.button.product_type_simple.add_to_cart_button.ajax_add_to_cart {
+    background: orange;
+}

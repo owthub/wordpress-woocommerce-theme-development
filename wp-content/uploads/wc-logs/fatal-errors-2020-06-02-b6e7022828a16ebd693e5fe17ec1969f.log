@@ -1,4 +1,0 @@
-2020-06-02T09:33:10+00:00 CRITICAL Cannot redeclare open_container_row_divs() (previously declared in /var/www/html/projects/woocom-theme-dev/wp-content/themes/simple-bootstrap-theme/functions.php:67) in /var/www/html/projects/woocom-theme-dev/wp-content/themes/simple-bootstrap-theme/functions.php on line 82
-
-2020-06-02T09:35:06+00:00 CRITICAL Cannot redeclare open_container_row_divs() (previously declared in /var/www/html/projects/woocom-theme-dev/wp-content/themes/simple-bootstrap-theme/functions.php:67) in /var/www/html/projects/woocom-theme-dev/wp-content/themes/simple-bootstrap-theme/functions.php on line 82
-
